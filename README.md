@@ -1,15 +1,8 @@
-# ZEN
-Zen is an interactive visual system based on the action of cutting words. It can also be seen as a small game that symbolizes meditation.
+# Apichatpong-Simulator
+This is a TouchDesigner project that reads human body data via camera and transforms it into the iconic mystical figure from the film Uncle Boonmee Who Can Recall His Past Lives.
 ## Description
-During the interaction, the user (or player) will notice that cutting the randomly appearing word “mind” reduces the total number of words on the screen, while cutting the word “zen” increases the number of words instead. Because of this, the user naturally begins to treat “mind” as the main target of interaction.
-
-However, after some time, the user will realize that even when no other words appear, the word “mind” continues to return again and again. In reality, the words on the screen come from a word library. Cutting the word “zen” will permanently remove one word from this library. Only when all the words in the library have been removed will no new words appear on the screen. This moment represents meditation reaching a complete and perfect state.
-
-Through this system, the work suggests that meditation is not about suppressing thoughts, but about searching for Zen itself.
-## Controls
-Mouse click: main interaction
-press R to restart
+English: This is a TouchDesigner visual project that captures human body data and transforms it into the famous red-eyed ghost from the film Uncle Boonmee Who Can Recall His Past Lives. Re-watching the movie recently, I was struck again by the mystical symbol of the "Ghost Monkey"—a perfect blend of history, geography, and Southeast Asian culture. Using noise textures in TD, I reshaped physical forms into blurred "spirits" with glowing red eyes, allowing viewers to experience the surprise of their own bodies merging into the film's haunting atmosphere.
+## TD file download
+https://1drv.ms/u/c/77dab14546efeef8/IQDx96N8Zhs8R7l7cmQV4FpxAWRmhfFoT_weYVc09dyU6vc?e=hARkjL
 ## References 
-Trainspotting. (1996) Directed by Danny Boyle. UK: Channel Four Films.
-The Miracle of Mindfulness. (1999) The Miracle of Mindfulness. Boston: Beacon Press.
-Zen Mind, Beginner’s Mind. (1970) Zen Mind, Beginner’s Mind. New York: Weatherhill.
+Uncle Boonmee Who Can Recall His Past Lives, 2010. [Film] Directed by Apichatpong Weerasethakul. UK: New Wave Films.
